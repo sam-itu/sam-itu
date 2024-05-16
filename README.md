@@ -1,4 +1,12 @@
-### Hi there 👋
+<h1>
+  Hi, I'm Sam! 👋<br/>
+  <a href="https://github.com/sam-itu">Programmer</a>, 
+  <a href="https://www.linkedin.com/in/sam-itu/">Cybersecurity Professional</a>, 
+</h1>
+
+<h2>👨‍💻 Projects:</h2>
+Loading ...
+
 
 <!--
 **sam-itu/sam-itu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
