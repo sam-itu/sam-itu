@@ -1,11 +1,16 @@
 <h1>
   Hi, I'm Sam! 👋<br/>
-  <a href="https://github.com/sam-itu">Programmer</a>, 
-  <a href="https://www.linkedin.com/in/sam-itu/">Cybersecurity Professional</a>, 
+  <a href="https://github.com/sam-itu">Programmer</a> | 
+  <a href="https://www.linkedin.com/in/sam-itu/">Cybersecurity Professional</a> | 
 </h1>
 
 <h2>👨‍💻 Projects:</h2>
-Loading ...
+
+- [Loading ...](https://github.com/sam-itu)
+
+<h2>Certificates:</h2>
+
+- [ITIL4](https://www.linkedin.com/in/sam-itu/)
 
 
 <!--
