@@ -8,7 +8,7 @@
 
 - [Loading ...](https://github.com/sam-itu)
 
-<h2>Certificates:</h2>
+<h2>🎓 Certificates:</h2>
 
 - [ITIL4](https://www.linkedin.com/in/sam-itu/)
 
