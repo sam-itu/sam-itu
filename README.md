@@ -1,7 +1,7 @@
 <h1>
   Hi, I'm Sam! 👋<br/>
-  <a href="https://github.com/sam-itu">Programmer</a> | 
-  <a href="https://www.linkedin.com/in/sam-itu/">Cybersecurity Professional</a> | 
+  <a href="https://github.com/sam-itu">Cybersecurity Analyst</a> | 
+  <a href="https://www.linkedin.com/in/sam-itu/">Data Scientist</a> | 
 </h1>
 
 <h2>👨‍💻 Projects:</h2>
